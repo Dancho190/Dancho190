@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dancho
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in Web Dev,ML and Full Stack dev.
 - 🌱 I’m currently learning Next.js,JS,React,Express,Typescript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
